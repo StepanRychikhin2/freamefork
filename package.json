@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chart": "^0.1.2",
+    "pnotify": "^5.2.0"
+  }
+}
