@@ -1,6 +1,36 @@
 {
+  "name": "freamefork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
+    "animate.css": "^3.7.2",
     "chart": "^0.1.2",
-    "pnotify": "^5.2.0"
-  }
+    "bootstrap": "^3.4.1",
+    "color-convert": "^0.2.1",
+    "hashish": "^0.0.4",
+    "font-awesome": "^4.7.0",
+    "hat": "^0.0.3",
+    "jquery": "^3.7.1",
+    "mrcolor": "^0.0.1",
+    "pnotify": "^5.2.0",
+    "popper.js": "^1.16.1",
+    "traverse": "^0.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StepanRychikhin2/freamefork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StepanRychikhin2/freamefork/issues"
+  },
+  "homepage": "https://github.com/StepanRychikhin2/freamefork#readme"
 }
